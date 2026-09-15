@@ -1,0 +1,20 @@
+schema_version: '1.0'
+method:
+  id: spatial-statistics
+  label: Spatial and Geographic Statistics
+  repository: LystadJS/method-spatial-statistics
+  status: planned
+  summary: Methods for spatial dependence, geographic structure, and place-based inference.
+  family: []
+  aliases:
+  - Spatial and Geographic Statistics
+  - spatial statistics
+  techniques:
+  - spatial-analysis
+  - population-weighted-geography
+  - spatial-visualization
+  related_methods:
+  - statistical-computing
+  languages:
+  - R
+  - Python
