@@ -44,7 +44,9 @@ _Link to complementary methodological hubs._
 
 <!-- JSL:AUTO-PROJECTS:START -->
 
-_Project links are generated from registered project manifests._
+| Project | Domain | Method role |
+|---|---|---|
+| [Counterterrorism, Ethnosectarian Context and Islamic State Attack Patterns](https://github.com/LystadJS/counterterrorism_ethnosectarian_islamic_state) | Political Violence, Terrorism and Responses to Terrorism, Human Security | Primary |
 
 <!-- JSL:AUTO-PROJECTS:END -->
 
